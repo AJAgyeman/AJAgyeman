@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/spreadsheet-Microsoft Excel-brightgreen?style=plastic&logo=microsoftexcel&logoColor=brightgreen">
 <img src="https://img.shields.io/badge/suite-Microsoft Office-green?style=plastic&logo=microsoft&logoColor=green">
 <img src="https://img.shields.io/badge/suite-Google-red?style=plastic&logo=google&logoColor=red">
-
+<img src="https://github-readme-stats.vercel.app/api?username=AJAgyeman&show_icons=true&theme=dark"/>
 
 
 
