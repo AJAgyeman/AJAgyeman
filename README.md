@@ -1,4 +1,4 @@
-<h2 align="center">👋 Come On In, My Name Is Adwoa (a-jo-a)</h2>
+<h2 align="center">👋 Hallo! My Name Is Adwoa (a-jo-a), you can call me AJ</h2>
 <p align="center">
    <img src ="https://user-images.githubusercontent.com/124000356/222981906-cf2384c7-cd5b-42a3-888c-210cab1b5784.png" alt="my cover banner">
 </p>
